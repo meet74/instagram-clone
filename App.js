@@ -1,12 +1,20 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import Navigation from './src/navigation';
+import {useFonts} from 'expo-font'
 
 export default function App() {
+
+  const [fontLoaded] = useFonts({
+    "SegoiUI":require("./assets/fonts/SegoeUI.ttf"),
+    "SegoiUIBold":require("./assets/fonts/SegoeUI-Bold.ttf")
+  })
+
+  if (!fontLoaded) {
+    return <Text>...Loading Fonts</Text>
+  }
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <Navigation/>
   );
 }
 
