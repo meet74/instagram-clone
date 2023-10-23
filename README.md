@@ -57,4 +57,4 @@ List any software or tools that need to be installed before setting up the proje
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/instagram-clone.git
+git clone https://github.com/meet74/instagram-clone.git
