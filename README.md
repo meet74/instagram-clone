@@ -31,7 +31,7 @@ This project is an Instagram clone, designed to replicate the core functionality
 
 ## Demo
 
-[![Watch the demo](https://i9.ytimg.com/vi/UTfgdR1Ee6k/mqdefault.jpg?v=65360087&sqp=CKyH2KkG&rs=AOn4CLB_avqxSJqSM5zLmfiebfzYub2EzA)](https://youtu.be/UTfgdR1Ee6k)
+[![Watch the demo](https://i9.ytimg.com/vi/UTfgdR1Ee6k/mqdefault.jpg?v=65360765&sqp=CNSu2qkG&rs=AOn4CLD_UyKWljRY_1J6KHTeg7HpN9wD1A)](https://youtu.be/UTfgdR1Ee6k)
 
 ## Technologies Used
 
